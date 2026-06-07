@@ -1,0 +1,30 @@
+name: Update README with latest blog posts
+
+# Keeps the "From the blog" section of README.md in sync with the
+# latest posts from blog.emadmokhtar.com. Runs on a schedule and on demand.
+
+on:
+  schedule:
+    # Every day at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Sync latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.emadmokhtar.com/rss/"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url)\n"
+          commit_message: "chore: update README with latest blog posts"
