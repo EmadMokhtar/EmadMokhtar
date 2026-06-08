@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Emad%20Mokhtar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Staff%20Software%20Engineer%20%C2%B7%20Building%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Emad Mokhtar" />
 
 <a href="https://blog.emadmokhtar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer;Building+multi-agent+AI+systems;Go+%26+Python+craftsman;RAG%2C+agents+%26+developer+tooling;Release+often%2C+fail+fast%2C+always+improve" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer;I+build+multi-agent+AI+systems;Go+%26+Python+craftsman;Agentic+AI%2C+RAG+%26+MCP+servers;Release+often%2C+fail+fast%2C+always+improve" alt="What I do" />
 </a>
 
 <br/>
@@ -26,12 +26,12 @@
 
 ## 👋 About me
 
-I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**, developer tooling, and the occasional thing that makes engineers' lives easier. 🇪🇬 Egyptian · Muslim · husband · lifelong builder. I care about shipping, teaching, and getting a little better every day.
+I'm **Emad** — a Staff Software Engineer building **multi-agent AI systems** and developer tooling that makes engineers' lives easier. 🇪🇬 Egyptian · Muslim · husband · lifelong builder. I ship, I teach, and I get a little better every day.
 
-- 🤖 Deep in **agentic AI, RAG & GenAI** — frameworks, MCP servers, and orchestration
+- 🤖 Deep in **agentic AI, RAG & GenAI** — orchestration, MCP servers, and the frameworks underneath
 - 🛠️ I think in **Go & Python**, design systems, and obsess over developer experience
-- 🎙️ Host of the **TechSpresso** podcast
-- ✍️ I write at **[blog.emadmokhtar.com](https://blog.emadmokhtar.com)** about AI, engineering, and the human side of building software
+- 🎙️ Host of the **TechSpresso** podcast — short shots of tech, engineering, and AI
+- ✍️ I write at **[blog.emadmokhtar.com](https://blog.emadmokhtar.com)** on AI, engineering, and the human side of building software
 - ☁️ **AWS ML** certified (Specialty + Associate) · **CKAD** — Certified Kubernetes Application Developer
 - 💬 Ask me about **agents, RAG, databases**, or leading engineers in the AI era
 
@@ -44,11 +44,11 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 | Project | Stack | What it does |
 | :------ | :---- | :----------- |
 | **[gogent](https://github.com/EmadMokhtar/gogent)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | High-performance **multi-agent framework** for building AI agents in Go |
-| **[Resume-Tailorator](https://github.com/EmadMokhtar/Resume-Tailorator)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Multi-agent system that **tailors your resume** to a job post — authentic & ATS-optimized |
-| **[email-mcp-go](https://github.com/EmadMokhtar/email-mcp-go)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | **MCP server** giving AI assistants IMAP/SMTP email superpowers |
-| **[wazir](https://github.com/EmadMokhtar/wazir)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Drives tasks **idea → pull request** on a GitHub Projects board with Claude Code |
-| **[MeetingMind](https://github.com/EmadMokhtar/MeetingMind)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Transcript processor with **AI-powered insights** via manager-worker orchestration |
-| **[BuddyFit](https://github.com/EmadMokhtar/BuddyFit)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Conversational **AI coach** for building a consistent workout routine |
+| **[Resume-Tailorator](https://github.com/EmadMokhtar/Resume-Tailorator)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Multi-agent system that **tailors your resume** to any job post — authentic and ATS-ready |
+| **[email-mcp-go](https://github.com/EmadMokhtar/email-mcp-go)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | **MCP server** that gives AI assistants real IMAP/SMTP email access |
+| **[wazir](https://github.com/EmadMokhtar/wazir)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Autonomous agent that takes a GitHub Projects task from **idea → pull request** with Claude Code |
+| **[MeetingMind](https://github.com/EmadMokhtar/MeetingMind)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Turns meeting transcripts into **actionable insights** via manager-worker orchestration |
+| **[BuddyFit](https://github.com/EmadMokhtar/BuddyFit)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Conversational **AI coach** that keeps you to a consistent workout routine |
 
 <sub>➡️ Browse all my work on the <a href="https://github.com/EmadMokhtar?tab=repositories">repositories tab</a>.</sub>
 
