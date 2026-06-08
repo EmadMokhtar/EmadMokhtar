@@ -26,7 +26,7 @@
 
 ## 👋 About me
 
-I'm **Emad** — a Staff Software Engineer building **multi-agent AI systems** and developer tooling that makes engineers' lives easier. 🇪🇬 Egyptian · Muslim · husband · lifelong builder. I ship, I teach, and I get a little better every day.
+I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems** and developer tooling that makes engineers' lives easier. The road from Egypt to the Netherlands taught me that great software is as much about people as it is about code. 🇳🇱 Dutch, Egyptian at heart 🇪🇬 · ☪️ Muslim · 💍 husband · 🏗️ lifelong builder · 🌱 forever learning. I ship, I teach, and I grow a little every day.
 
 - 🤖 Deep in **agentic AI, RAG & GenAI** — orchestration, MCP servers, and the frameworks underneath
 - 🛠️ I think in **Go & Python**, design systems, and obsess over developer experience
