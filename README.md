@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Emad%20Mokhtar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Staff%20Software%20Engineer%20%C2%B7%20Building%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Emad Mokhtar" />
 
 <a href="https://blog.emadmokhtar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer;I+build+multi-agent+AI+systems;Go+%26+Python+craftsman;Agentic+AI%2C+RAG+%26+MCP+servers;Release+often%2C+fail+fast%2C+always+improve" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer;I+build+multi-agent+AI+systems;Go+%26+Python+craftsman;Agentic+AI%2C+RAG+%26+MCP+servers;Build+with+intention%2C+fail+with+grace%2C+grow+without+end" alt="What I do" />
 </a>
 
 <br/>
@@ -133,7 +133,7 @@ I'm **Emad** — a Staff Software Engineer building **multi-agent AI systems** a
 
 <br/><br/>
 
-<i>"Release often, fail fast, & always improve."</i>
+<i>"Build with intention, fail with grace, grow without end."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
