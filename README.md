@@ -107,7 +107,12 @@ I'm **Emad** — a Staff Software Engineer building **multi-agent AI systems** a
 
 ## 📝 From the blog
 
-<!-- BLOG-POST-LIST:START -->- [Stop Just Writing Code. Start Leading Agents: The Staff Engineer’s AI Edge](https://blog.emadmokhtar.com/stop-just-writing-code-start-leading-agents-the-staff-engineers-ai-edge/)- [AI Agents aren’t the only thing you need](https://blog.emadmokhtar.com/ai-agents-arent-the-only-thing-you-need/)- [Your Calendar is a Bug: How Meetings Cripple Software Productivity](https://blog.emadmokhtar.com/your-calendar-is-a-bug-how-meetings-cripple-software-productivity/)- [The Challenging Side of Software Engineering](https://blog.emadmokhtar.com/the-challenging-side-of-software-engineering/)- [المبرمج الذكي في عصر الذكاء الاصطناعي : تبني ولا تقاوم؟ 🛠️✨](https://blog.emadmokhtar.com/lmbrmj-ldhky-fy-aasr-ldhk-lstnaay-tbny-wl-tqwm/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Stop Just Writing Code. Start Leading Agents: The Staff Engineer’s AI Edge](https://blog.emadmokhtar.com/stop-just-writing-code-start-leading-agents-the-staff-engineers-ai-edge/)
+- [AI Agents aren’t the only thing you need](https://blog.emadmokhtar.com/ai-agents-arent-the-only-thing-you-need/)
+- [Your Calendar is a Bug: How Meetings Cripple Software Productivity](https://blog.emadmokhtar.com/your-calendar-is-a-bug-how-meetings-cripple-software-productivity/)
+- [The Challenging Side of Software Engineering](https://blog.emadmokhtar.com/the-challenging-side-of-software-engineering/)
+- [المبرمج الذكي في عصر الذكاء الاصطناعي : تبني ولا تقاوم؟ 🛠️✨](https://blog.emadmokhtar.com/lmbrmj-ldhky-fy-aasr-ldhk-lstnaay-tbny-wl-tqwm/)
+<!-- BLOG-POST-LIST:END -->
 
 🎙️ I also host the **TechSpresso** podcast — short shots of tech, engineering, and AI.
 
