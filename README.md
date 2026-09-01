@@ -1,5 +1,5 @@
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                      HEADER  BANNER                        ║ -->
+<!-- ║ HEADER BANNER ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Emad%20Mokhtar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Staff%20Software%20Engineer%20%C2%B7%20Building%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Emad Mokhtar" />
 
 <a href="https://blog.emadmokhtar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=%F0%9F%92%BB+Staff+Software+Engineer;%F0%9F%A4%96+I+build+multi-agent+AI+systems;%F0%9F%9B%A0%EF%B8%8F+Go+%26+Python+craftsman;%F0%9F%A7%A0+Agentic+AI%2C+RAG+%26+MCP+servers;%F0%9F%8C%B1+Build+with+intention%2C+fail+with+grace%2C+grow+without+end" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=%F0%9F%92%BB+Staff+Software+Engineer;%F0%9F%A4%96+I+build+multi-agent+AI+systems;%F0%9F%9B%A0%EF%B8%8F+Go+%26+Python+craftsman;%F0%9F%A7%A0+Agentic+AI%2C+RAG+%26+MCP+servers;%F0%9F%8C%B1+Build+with+intention%2C+fail+with+grace%2C+grow+without+end" alt="What I do" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                       ABOUT  ME                           ║ -->
+<!-- ║ ABOUT ME ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 👋 About me
@@ -36,24 +36,26 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 - 💬 Ask me about **agents, RAG, databases**, or leading engineers in the AI era
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                    FEATURED  PROJECTS                     ║ -->
+<!-- ║ FEATURED PROJECTS ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 🚀 Featured projects
 
 | Project | Stack | What it does |
 | :------ | :---- | :----------- |
-| **[gogent](https://github.com/EmadMokhtar/gogent)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | High-performance **multi-agent framework** for building AI agents in Go |
-| **[Resume-Tailorator](https://github.com/EmadMokhtar/Resume-Tailorator)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Multi-agent system that **tailors your resume** to any job post — authentic and ATS-ready |
+| **[skill-eval](https://github.com/EmadMokhtar/skill-evaluator)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Evaluation harness for Agent Skills** — scores output, tool-use trajectories and efficiency budgets, then gates CI on the result |
+| **[Sira](https://github.com/Tiqni/sira)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Multi-agent CLI that **tailors your resume** to a job posting without inventing facts, and audits itself for hallucinations |
+| **[wazir](https://github.com/Tiqni/wazir)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Drives a task from **idea to pull request** on a GitHub Projects board with Claude Code — and stops for your approval at every gate |
+| **[PyFr](https://github.com/EmadMokhtar/pyfr)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | A **cookiecutter template** for production-ready Python microservices — four layers with the dependency rule enforced by a build check *(pre-release: reference service runs today)* |
 | **[email-mcp-go](https://github.com/EmadMokhtar/email-mcp-go)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | **MCP server** that gives AI assistants real IMAP/SMTP email access |
-| **[wazir](https://github.com/EmadMokhtar/wazir)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Autonomous agent that takes a GitHub Projects task from **idea → pull request** with Claude Code |
 | **[MeetingMind](https://github.com/EmadMokhtar/MeetingMind)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Turns meeting transcripts into **actionable insights** via manager-worker orchestration |
-| **[BuddyFit](https://github.com/EmadMokhtar/BuddyFit)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Conversational **AI coach** that keeps you to a consistent workout routine |
 
+<sub>🧪 <a href="https://github.com/EmadMokhtar/skill-eval-demo">skill-eval-demo</a> — skill-eval running in CI against recorded cassettes</sub>
+<sub>🏋️ <a href="https://github.com/EmadMokhtar/BuddyFit">BuddyFit</a> — conversational AI coach, a full Go service with migrations, Docker and CI</sub>
 <sub>➡️ Browse all my work on the <a href="https://github.com/EmadMokhtar?tab=repositories">repositories tab</a>.</sub>
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                       TECH  STACK                         ║ -->
+<!-- ║ TECH STACK ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 🛠️ Tech stack
@@ -68,6 +70,7 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -86,11 +89,12 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                      GITHUB  STATS                        ║ -->
+<!-- ║ GITHUB STATS ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub activity
@@ -102,7 +106,7 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                     FROM  THE  BLOG                       ║ -->
+<!-- ║ FROM THE BLOG ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 📝 From the blog
@@ -117,7 +121,7 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 🎙️ I also host the **TechSpresso** podcast — short shots of tech, engineering, and AI.
 
 <!-- ╔═══════════════════════════════════════════════════════════╗ -->
-<!-- ║                        CONNECT                            ║ -->
+<!-- ║ CONNECT ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 ## 🔗 Let's connect
