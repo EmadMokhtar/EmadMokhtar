@@ -112,11 +112,11 @@ I'm **Emad** — a Staff Software Engineer who builds **multi-agent AI systems**
 ## 📝 From the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Skills Need Tests, Not Vibes](https://blog.emadmokhtar.com/agent-skills-need-tests-not-vibes/)
 - [How 102 Review Comments Taught Me to Treat Coding Agents Like Teammates](https://blog.emadmokhtar.com/how-102-review-comments-taught-me-to-treat-coding-agents-like-teammates/)
 - [Stop Just Writing Code. Start Leading Agents: The Staff Engineer’s AI Edge](https://blog.emadmokhtar.com/stop-just-writing-code-start-leading-agents-the-staff-engineers-ai-edge/)
 - [AI Agents aren’t the only thing you need](https://blog.emadmokhtar.com/ai-agents-arent-the-only-thing-you-need/)
-- [Your Calendar is a Bug: How Meetings Cripple Software Productivity](https://blog.emadmokhtar.com/your-calendar-is-a-bug-how-meetings-cripple-software-productivity/)
-- [The Challenging Side of Software Engineering](https://blog.emadmokhtar.com/the-challenging-side-of-software-engineering/)<!-- BLOG-POST-LIST:END -->
+- [Your Calendar is a Bug: How Meetings Cripple Software Productivity](https://blog.emadmokhtar.com/your-calendar-is-a-bug-how-meetings-cripple-software-productivity/)<!-- BLOG-POST-LIST:END -->
 
 🎙️ I also host the **TechSpresso** podcast — short shots of tech, engineering, and AI.
 
